@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94ce436c-1b5a-4b76-8abc-2a6e6dfe5ba3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/shutl/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/shutl/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/shutl/controller/QuoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/shutl/controller/QuoteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/shutl/model/Quote.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/shutl/model/Quote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/shutl/controller/QuoteControllerFunctionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/shutl/controller/QuoteControllerFunctionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.shutl.controller.QuoteControllerFunctionalTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.shutl.controller.QuoteControllerFunctionalTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.shutl.controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.shutl.controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.shutl.controller.QuoteControllerFunctionalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.shutl.controller.QuoteControllerFunctionalTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shutl/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shutl/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shutl/controller/QuoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shutl/controller/QuoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shutl/model/Quote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shutl/model/Quote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shutl/controller/QuoteControllerFunctionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shutl/controller/QuoteControllerFunctionalTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22V80ZJhZBz6Ry8J0PWPbZ1uKjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ce436c-1b5a-4b76-8abc-2a6e6dfe5ba3" name="Changes" comment="" />
+      <created>1639911177644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639911177644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
