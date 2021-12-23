@@ -15,7 +15,7 @@ I am a big fan of React.js for web frontend development due to its child-parent 
 Although it was not specified in the task, I simply could not see the app being useful if this feature did not exist. As you will see, I took the initiative of implementing a vehicle validation step so that an incorrect vehicle input on the frontend results in a advisory error message instead of some erroneous price quote.
 
 
-Althought the source code for the React frontend is no longer required, I have included it under the `/react_frontend/` top level directory.
+Althought the source code for the React frontend is no longer required to run the app, I have included it under the `/react_frontend/` top level directory.
 
 ## Running the app
 
